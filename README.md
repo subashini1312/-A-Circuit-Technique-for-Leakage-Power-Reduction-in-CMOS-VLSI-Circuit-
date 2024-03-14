@@ -1,0 +1,1 @@
+# -A-Circuit-Technique-for-Leakage-Power-Reduction-in-CMOS-VLSI-Circuit-
